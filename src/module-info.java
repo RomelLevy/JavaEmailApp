@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Fresco
+ *
+ */
+module javaproject {
+}
